@@ -1,3 +1,7 @@
 [submodule "nsfw"]
 	path = nsfw
 	url = git@github.com:Axosoft/nsfw.git
+
+[submodule "libgit2"]
+	path = libgit2
+	url = git@github.com:libgit2/libgit2.git
