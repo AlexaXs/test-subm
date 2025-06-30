@@ -5,3 +5,6 @@
 [submodule "libgit2"]
 	path = libgit2
 	url = git@github.com:libgit2/libgit2.git
+[submodule "Test3Name"]
+	path = Test3Path
+	url = git@github.com:AlexaXs/Test3.git
