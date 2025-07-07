@@ -1,0 +1,6 @@
+[submodule "test-simple"]
+	path = test-simple
+	url = git@bitbucket.org:alexaxs2/test-simple.git
+[submodule "Test2"]
+	path = Test2
+	url = git@github.com:AlexaXs/Test2.git
