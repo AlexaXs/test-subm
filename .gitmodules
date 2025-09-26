@@ -1,0 +1,3 @@
+[submodule "myNsfwName"]
+	path = subPath/myNsfwPath
+	url = git@github.com:Axosoft/nsfw.git
